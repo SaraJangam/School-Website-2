@@ -1,0 +1,68 @@
+.my_nav_bar{
+    position: sticky;
+    top:0;
+    z-index: 99999;
+}
+#marqueeStyle{
+    margin-top: -20px;
+    background-color: cornflowerblue;
+    font-size: 18px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.page-header{
+    text-align: center;
+    font-size: 20px;
+}
+.cam-img{
+    margin-left: -50px;
+}
+.kbd-campus-detailer{
+    text-align: center;
+    font-size: 25px;
+}
+.writings{
+    margin-left: -50px;
+}
+#school-video{
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.acheivements{
+ border-radius: 8px;
+ height: 30px;
+margin-bottom: 8px;
+}
+.image-science-lab{
+ height: 850;
+width: 1275;  
+}
+.popup{
+    cursor: pointer;
+}
+.imgofa{
+    border-radius: 10px;
+}
+.img_modal{
+    display: inline-block;
+}
+.modal-content{
+    margin-top: 100px;
+}
+#align{
+    text-align: center;
+}
+#DR{
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
+#Alu_cent{
+    text-align: center;
+}
+#DrDeepakP2{
+    height: 280px;
+    width: 400px;
+}
